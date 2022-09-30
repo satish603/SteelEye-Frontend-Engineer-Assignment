@@ -1,3 +1,11 @@
+# SteelEye Frontend Engineer Assignment
+#### Introduction
+##### Based on the code below answer the following queries:
+- Explain what the simple List component does.
+- What problems / warnings are there with code?(Attached with github repository).
+- Please fix, optimize, and/or modify the component as much as you think is necessary.
+#### SOLUTION:-
+
 ##### Explain what the simple List component does.
 - The List component allows you to display     a list of pages or links. You can build     the list of links by defining a parent     page (and displaying its child pages),     manually choosing pages, or defining search criteria.
 - `List` get an array of objects wich are data to display and renders childrens `SingleListItem` components and pass them the data they need to display and also the click handler to update the state to know which list item is selected
