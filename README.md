@@ -98,6 +98,10 @@ const List = memo(WrappedListComponent);
 
 export default List;
 ```
+![image](https://user-images.githubusercontent.com/60779510/193199407-97d7c491-e58f-42bf-8406-f056b1ec912f.png)
+![image](https://user-images.githubusercontent.com/60779510/193199444-21046ce7-a229-4092-af59-940436cdd247.png)
+![image](https://user-images.githubusercontent.com/60779510/193199475-512b2935-29ba-411b-b3b1-fd1984ee32ab.png)
+![image](https://user-images.githubusercontent.com/60779510/193199513-0ea321be-42cf-4b05-b809-2684085e0aa0.png)
 
 # Getting Started with Create React App
 
